@@ -1,2 +1,3 @@
-# stacker
-Simple processing isometric box-stack drawer.
+<p align = "center">
+	<img src="./docs/example.png" width="800"/>
+</p>
