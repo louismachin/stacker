@@ -43,7 +43,7 @@ class Box {
     strokeWeight(1);
     strokeJoin(ROUND);
     
-    fill(#FFFFFF);
+    fill(#F7D296);
     beginShape();
     vertex(A.x, A.y);
     vertex(B.x, B.y);
@@ -51,7 +51,7 @@ class Box {
     vertex(C.x, C.y);
     endShape(CLOSE);
     
-    fill(#FFFFFF);
+    fill(#B88660);
     beginShape();
     vertex(C.x, C.y);
     vertex(D.x, D.y);
@@ -59,7 +59,7 @@ class Box {
     vertex(F.x, F.y);
     endShape(CLOSE);
     
-    fill(#EEEEEE);
+    fill(#E1B872);
     beginShape();
     vertex(B.x, B.y);
     vertex(D.x, D.y);
