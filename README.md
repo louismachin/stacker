@@ -1,3 +1,3 @@
 <p align = "center">
-	<img src="./docs/example.png" width="800"/>
+	<img src="./docs/example_colour.png" width="800"/>
 </p>
